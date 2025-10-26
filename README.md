@@ -256,8 +256,8 @@ pip install pillow
     Button(root, text="生成水印", width=20, bg="#4CAF50", fg="white", command=generate).grid(row=3, column=1, pady=20)
 
     root.mainloop()
-
-
+### 這是輸出出來的視窗
+![01](https://github.com/11224204lbt/Chatgpt/blob/main/2.png)
 ## 運行結果
 ![01](https://github.com/11224204lbt/stack/blob/main/code.png)
 
