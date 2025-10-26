@@ -258,10 +258,16 @@ pip install pillow
     root.mainloop()
 ### 這是輸出出來的視窗
 ![01](https://github.com/11224204lbt/Chatgpt/blob/main/2.png)
-## 運行結果
-![01](https://github.com/11224204lbt/stack/blob/main/code.png)
 
-![01](https://github.com/11224204lbt/stack/blob/main/code1.png)
+### 選擇圖片所在的資料夾->選擇字體的ttf檔->輸入要水印的內容->按生成水印
+![01](https://github.com/11224204lbt/Chatgpt/blob/main/3.png)
+
+### 圖片所在的資料夾會產生一個output資料夾
+![01](https://github.com/11224204lbt/Chatgpt/blob/main/4.png)
+## 運行結果
+![01](https://github.com/11224204lbt/stack/blob/main/before.bmp)
+
+![01](https://github.com/11224204lbt/stack/blob/main/after.bmp)
 
 ## 其他應用
 堆疊還有很多其他應用，比如在系統程式設計中，四則運算會利用堆疊來達成先乘除、後加減、括號優先處理的目的。
