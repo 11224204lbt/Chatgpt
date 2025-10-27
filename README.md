@@ -30,7 +30,7 @@
 
 ## 第一步驟:
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/1.png)
-![03](https://github.com/11224204lbt/Chatgpt/blob/main/1.png)
+![03](https://github.com/11224204lbt/Chatgpt/blob/main/5.png)
 
 ### 一開始GPT給的程式
     import os
