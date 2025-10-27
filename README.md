@@ -30,9 +30,10 @@
 
 ## 第一步:提問
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/1.png)
+## 第二步:安裝pip install pillow
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/5.png)
 
-## CHATGPT給的程式
+### CHATGPT給的程式
     import os
     from tkinter import *
     from tkinter import filedialog, messagebox
@@ -133,11 +134,12 @@
 
     root.mainloop()
 
-## 執行程式後發現讀不到資料夾裡的圖片
+### 第三步:執行程式
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/6.png)
-
-
-## 最終代碼
+發現讀不到資料夾裡的圖片
+### 第三步:近一步詢問
+![03](https://github.com/11224204lbt/Chatgpt/blob/main/7.png)
+### CHATGPT給的程式
 
     import os
     from tkinter import *
