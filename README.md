@@ -134,10 +134,10 @@
 
     root.mainloop()
 
-### 第三步:執行程式
+## 第三步:執行程式
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/6.png)
 發現讀不到資料夾裡的圖片
-### 第三步:近一步詢問
+## 第四步:近一步詢問
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/7.png)
 ### CHATGPT給的程式
 
