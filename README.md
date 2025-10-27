@@ -28,11 +28,11 @@
 穩定處理:
 自動忽略損壞或非圖片檔案，避免程式中斷。
 
-## 第一步驟:
+## 第一步:提問
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/1.png)
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/5.png)
 
-### 一開始GPT給的程式
+### 執行GPT給的程式
     import os
     from tkinter import *
     from tkinter import filedialog, messagebox
@@ -133,7 +133,7 @@
 
     root.mainloop()
 
-中間有發生許多的問題(tkinter介面跑不出來、圖片檔案不支援)，透過不斷的詢問，得到以下的最終代碼
+執行程式後發現找不到圖片
 
 
 ## 最終代碼
