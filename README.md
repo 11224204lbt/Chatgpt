@@ -133,8 +133,8 @@
 
     root.mainloop()
 
-## 執行程式後發現找不到圖片
-![03](https://github.com/11224204lbt/Chatgpt/blob/main/5.png)
+## 執行程式後發現讀不到資料夾裡的圖片
+![03](https://github.com/11224204lbt/Chatgpt/blob/main/6.png)
 
 
 ## 最終代碼
