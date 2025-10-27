@@ -258,7 +258,9 @@
     Button(root, text="生成水印", width=20, bg="#4CAF50", fg="white", command=generate).grid(row=3, column=1, pady=20)
 
     root.mainloop()
-### 這是輸出出來的視窗
+### 測試成功!!
+# 成果展示
+### 視窗
 ![01](https://github.com/11224204lbt/Chatgpt/blob/main/2.png)
 
 ### 選擇圖片所在的資料夾->選擇字體的ttf檔->輸入要水印的內容->按生成水印
