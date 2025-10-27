@@ -28,11 +28,10 @@
 穩定處理:
 自動忽略損壞或非圖片檔案，避免程式中斷。
 
-## 圖例說明
+## 第一步驟:
 ![03](https://github.com/11224204lbt/Chatgpt/blob/main/1.png)
-先安裝必要套件
+![03](https://github.com/11224204lbt/Chatgpt/blob/main/1.png)
 
-pip install pillow
 ### 一開始GPT給的程式
     import os
     from tkinter import *
